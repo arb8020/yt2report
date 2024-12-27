@@ -28,6 +28,7 @@ import re
 from dotenv import load_dotenv
 import yt_dlp
 import assemblyai as aai
+from google import generativeai
 import aiohttp
 from rich.console import Console
 from rich.prompt import Prompt
